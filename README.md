@@ -9,3 +9,6 @@ Da uma olhada na aba [Releases](https://github.com/Rafadegolin/LandingPage---Dis
 
 ## License/Licença do Projeto
 [MIT License](./LICENSE) © [Rafael Degolin](https://github.com/Rafadegolin)
+
+## Clique aqui para acessar:
+[Landing Page](https://rafadegolin.github.io/LandingPage-DiscordBot/)
